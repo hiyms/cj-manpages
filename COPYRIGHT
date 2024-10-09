@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: cj-manpages
+Source: https://gitcode.com/yms_hi/Cj-manpage
+
+Files: *
+Copyright:
+ 2024, Yan Mingshu <yms_hi@Outlook.com>
+License: GFDL-1.3+
